@@ -1,0 +1,6 @@
+PyPDF2
+langchain_google_genai
+chromadb
+langchain_groq
+langgraph
+langchain-community
