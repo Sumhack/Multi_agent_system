@@ -14,7 +14,7 @@ The system is divided into three major components:
 
 ## 🧭 Architecture Overview
 
-![ Multi-Agent LLM-Based Customer Service System Architecture](Architecture_diagram.drawio.png)
+![ Multi-Agent LLM-Based Customer Service System Architecture](Architecture_diagram.png)
 
 
 ## 🧠 Implementation Plan
