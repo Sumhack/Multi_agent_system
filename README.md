@@ -83,12 +83,3 @@ This component routes user queries to the correct agent (marketing or technical)
 
 ---
 
-## 🚀 Future Enhancements
-
-- Add user authentication and session tracking.
-- Log and visualize agent performance metrics.
-- Support additional document formats (Excel, HTML, etc.).
-- Containerize the system and expose as an API for broader integration.
-
----
-
